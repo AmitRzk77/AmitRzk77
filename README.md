@@ -1,6 +1,6 @@
 
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Amit Jumar Rajak from Biratnagar, Nepal.<br><br>- 🔭 I’m working as ...<br>- 
+<p align="left">I'm Amit Jumar Rajak from Biratnagar, Nepal.<br><br>- 
 
 ###
 
