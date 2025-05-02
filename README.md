@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Amit Kumar Rajak from Biratnagar, Nepal.<br><br>- 
+<p align="left">I'm Amit Kumar Rajak from Kathmandu, Nepal.<br><br>- 
 
 ###
 
